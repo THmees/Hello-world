@@ -1,2 +1,2 @@
 # Hello-world
-Welcome to my server Team hell
+Welcome to my team hell server
